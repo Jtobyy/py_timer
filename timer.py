@@ -13,3 +13,7 @@ for _ in range(args.time):
     sleep(1)
 print('Done!')
 
+
+# To test subprocess using the code, open the REPL then run the below code
+# import subprocess
+# subprocess.run(["python", "timer.py", "9"])
